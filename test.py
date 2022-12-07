@@ -141,7 +141,7 @@ def win(mat):
 # if Start == "Y":
 
 
-size_matrix = 3  # max 10. сделать проверку
+size_matrix = 9  # max 10. сделать проверку
 matrix = [["-"] * size_matrix for i in range(size_matrix)]  # создаем матрицу по заданному размеру
 
 greet()
